@@ -4,7 +4,7 @@
 
 ;; Author: Vincent Zhang
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "26.1") (lsp-mode "7.0") (dash "2.18.0") (ht "2.0"))
+;; Package-Requires: ((emacs "27.1") (lsp-mode "7.0") (dash "2.18.0") (ht "2.0"))
 ;; Homepage: https://github.com/seagle0128/lsp-pylyzer
 ;; Keywords: languages, tools, lsp
 
