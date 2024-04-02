@@ -2,7 +2,7 @@
          "0.1.0"
          "Python LSP client using pylyzer")
 
-(package-file "lsp-pyright.el")
+(package-file "lsp-pylyzer.el")
 
 (files "*.el")
 
