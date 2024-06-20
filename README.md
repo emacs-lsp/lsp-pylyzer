@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/emacs-lsp/lsp-pylyzer/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-lsp/lsp-pylyzer/actions/workflows/test.yml)
 [![License](http://img.shields.io/:License-GPL3-blue.svg)](License)
+[![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/lsp-pylyzer.svg)](https://jcs-emacs.github.io/jcs-elpa/#/lsp-pylyzer)
 [![MELPA](https://melpa.org/packages/lsp-pylyzer-badge.svg)](https://melpa.org/#/lsp-pylyzer)
 [![Join the chat at https://gitter.im/emacs-lsp/lsp-mode](https://badges.gitter.im/emacs-lsp/lsp-mode.svg)](https://gitter.im/emacs-lsp/lsp-mode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
