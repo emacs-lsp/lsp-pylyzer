@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "lsp-pylyzer"
          "0.1.0"
          "Python LSP client using pylyzer")
